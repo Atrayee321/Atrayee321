@@ -19,7 +19,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm a final-year B.Tech student passionate about Data Analytics, Machine Learning, and Artificial Intelligence.
+🎓 I'm a B.Tech student passionate about Data Analytics, Machine Learning, and Artificial Intelligence.
 
 - 📊 Interested in transforming raw data into meaningful insights.
 - 🤖 Exploring machine learning techniques and predictive modelling.
