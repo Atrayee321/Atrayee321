@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Atrayee 👋</h1>
 <h3 align="center">Aspiring Data Analyst | Machine Learning & AI Enthusiast</h3>
 
@@ -45,6 +46,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## 🚀 Featured Project
 
@@ -55,13 +57,13 @@ A machine learning project focused on predicting IPL cricket scores using histor
 **Project Details**
 
 - **Domain:** Cricket Analytics & Predictive Modelling
-- **Technologies:** Python, TensorFlow, Keras, ANN, Google Colab
+- **Technologies:** Python, TensorFlow, Keras, ANN, Google Colab, Streamlit
 - **Dataset:** IPL match data
 - **Objective:** Explore cricket score prediction using historical data and deep learning.
 
 🔗 **[View IPL Score Predictor Repository](https://github.com/Atrayee321/ipl-score-predictor)**
 
-*Replace the repository link if your actual repository has a different name.*
+🌐 **[Live Website — IPL Score Predictor](https://ipl-score-predictor-cu9oq6pdmugxksphc4y8uw.streamlit.app/)**
 
 ## 📚 Areas I'm Exploring
 
@@ -85,6 +87,7 @@ A machine learning project focused on predicting IPL cricket scores using histor
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 
 - 💻 **GitHub:** [@Atrayee321](https://github.com/Atrayee321)
 - 💼 **LinkedIn:** [Atrayee Chatterjee](https://www.linkedin.com/in/atrayee-chatterjee-44a00307/)
