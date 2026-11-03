@@ -1,6 +1,6 @@
+# Hi, I'm Atrayee 👋
 
-<h1 align="center">Hi, I'm Atrayee 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Machine Learning & AI Enthusiast</h3>
+### Aspiring Data Analyst | Machine Learning & AI Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+Data+Analytics+%26+Machine+Learning;Building+Data-Driven+Projects;Turning+Data+into+Insights" alt="Typing introduction" />
@@ -8,12 +8,12 @@
 
 <p align="center">
   <a href="https://github.com/Atrayee321">
-    <img src="https://img.shields.io/badge/GitHub-Atrayee321-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-Atrayee321-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/atrayee-chatterjee-44a003307/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20ML-2563EB?style=for-the-badge" alt="Data Analytics and Machine Learning" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20ML-2563EB?style=for-the-badge" />
 </p>
 
 ---
@@ -48,9 +48,36 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-## 🚀 Featured Project
+---
 
-### 🏏 IPL Score Predictor — Deep Learning & ANN
+## 🚀 Featured Projects
+
+### 📊 1. Superstore Sales Data Analysis Dashboard
+
+An end-to-end sales analytics project combining Python, SQL, Power BI and Streamlit to analyze business performance and generate actionable insights.
+
+**Key Features**
+- Interactive sales analytics dashboard using Streamlit.
+- Revenue, profit, orders, customers and average order value KPIs.
+- Exploratory Data Analysis and data visualization.
+- Monthly sales and profitability trends.
+- Product, category, regional and customer analysis.
+- Top-performing products and customers.
+- Identification of loss-making products.
+- SQL queries for business-oriented analysis.
+- Interactive Power BI dashboard.
+
+**Technologies:** Python, Pandas, Plotly, Streamlit, SQL, MySQL, Power BI, Google Colab, GitHub.
+
+**Dataset:** Cleaned Superstore Sales Dataset (9,994 records, 27 columns).
+
+🔗 **[View GitHub Repository](https://github.com/Atrayee321/Sales-Data-Analysis)**
+
+🌐 **[Live Dashboard — Superstore Sales Analysis](https://superstore-sales-analysis-am346gmdq9unrua9ocy2yl.streamlit.app/)**
+
+---
+
+### 🏏 2. IPL Score Predictor — Deep Learning & ANN
 
 A machine learning project focused on predicting IPL cricket scores using historical match data and an Artificial Neural Network (ANN) built with TensorFlow.
 
@@ -65,6 +92,8 @@ A machine learning project focused on predicting IPL cricket scores using histor
 
 🌐 **[Live Website — IPL Score Predictor](https://ipl-score-predictor-cu9oq6pdmugxksphc4y8uw.streamlit.app/)**
 
+---
+
 ## 📚 Areas I'm Exploring
 
 - Exploratory Data Analysis (EDA) and data visualization
@@ -72,29 +101,21 @@ A machine learning project focused on predicting IPL cricket scores using histor
 - Machine learning algorithms and model evaluation
 - Neural networks and deep learning
 - SQL-based data analysis
+- Business intelligence and dashboard development
 - Sports analytics and predictive modelling
+
+---
 
 ## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://github.com/Atrayee321">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/atrayee-chatterjee-44a00307/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:atrayeetintin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-
-- 💻 **GitHub:** [@Atrayee321](https://github.com/Atrayee321)
-- 💼 **LinkedIn:** [Atrayee Chatterjee](https://www.linkedin.com/in/atrayee-chatterjee-44a00307/)
-- 📧 **Email:** [atrayeetintin@gmail.com](mailto:atrayeetintin@gmail.com)
-
----
-
-<p align="center">
-  <i>Learn continuously. Analyze thoughtfully. Build intelligently.</i>
 </p>
