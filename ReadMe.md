@@ -1,3 +1,4 @@
+
 # Hi, I'm Atrayee 👋
 
 ### Aspiring Data Analyst | Machine Learning & AI Enthusiast
@@ -67,6 +68,15 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </p>
 
+### Generative AI & Agentic AI
+
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-0D9488?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
 ### Tools & Deployment
 
 <p>
@@ -81,7 +91,44 @@
 
 ## 🚀 Featured Projects
 
-### 📊 1. Superstore Sales Data Analysis Dashboard
+### 🤖 1. Autonomous AI Data Analyst — Agentic AI & Generative AI
+
+An end-to-end AI-powered data analytics application designed to automate exploratory data analysis, understand uploaded datasets, execute analytical workflows, and generate meaningful insights using Google Gemini, LangGraph, Pandas, Plotly, and Streamlit.
+
+**Project Highlights**
+
+- Autonomous dataset profiling and exploratory data analysis.
+- AI-powered analytical planning using Google Gemini.
+- Agentic workflow orchestration using LangGraph.
+- Automatic detection of numerical, categorical, and date columns.
+- Data quality analysis, missing-value detection, and summary statistics.
+- Categorical, grouped, and time-series analysis using Pandas.
+- Multi-step natural-language question answering through the **Ask Your Data** feature.
+- Interactive data visualizations using Plotly.
+- AI-generated business intelligence reports with analytical findings.
+- CSV and Excel dataset support.
+- Interactive Streamlit application deployed using Streamlit Community Cloud.
+
+**Technologies Used**
+
+`Python` `Pandas` `NumPy` `Google Gemini` `LangGraph` `Generative AI` `Agentic AI` `Plotly` `Streamlit` `Google Colab` `GitHub`
+
+**Project Information**
+
+- Domain: Generative AI & Data Analytics
+- Architecture: Single-Agent LangGraph Workflow
+- AI Model: Google Gemini
+- Supported Data Formats: CSV and Excel
+- Deployment: Streamlit Community Cloud
+
+**Project Links**
+
+- 📂 [GitHub Repository (Private)](https://github.com/Atrayee321/autonomous-ai-data-analyst)
+- 🌐 [Live Autonomous AI Data Analyst](https://autonomous-ai-data-analyst-kmbpc8frppj6wdhroqziof.streamlit.app/)
+
+---
+
+### 📊 2. Superstore Sales Data Analysis Dashboard
 
 An end-to-end sales analytics project designed to explore business performance, identify sales trends, and generate meaningful business insights using Python, SQL, Power BI, and Streamlit.
 
@@ -121,7 +168,7 @@ An end-to-end sales analytics project designed to explore business performance, 
 
 ---
 
-### 🏏 2. IPL Score Predictor — Deep Learning & ANN
+### 🏏 3. IPL Score Predictor — Deep Learning & ANN
 
 A cricket analytics and prediction project that uses historical IPL data and an Artificial Neural Network to explore match score prediction.
 
@@ -156,6 +203,7 @@ A cricket analytics and prediction project that uses historical IPL data and an 
 - Model Evaluation and Optimization
 - Deep Learning and Artificial Neural Networks
 - Generative AI and Large Language Models
+- Agentic AI and AI-Powered Data Analysis
 - Business Intelligence and Dashboard Development
 - Sports Analytics — Cricket and Football
 - Predictive Analytics
@@ -195,13 +243,16 @@ A cricket analytics and prediction project that uses historical IPL data and an 
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
+
+<p align="center">
   <a href="https://github.com/Atrayee321">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/atrayee-chatterjee-44a00307/">
+  <a href="https://www.linkedin.com/in/atrayee-chatterjee-44a003307/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:atrayeetintin@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
