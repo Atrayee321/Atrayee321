@@ -210,19 +210,6 @@ A cricket analytics and prediction project that uses historical IPL data and an 
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atrayee321&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atrayee321&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atrayee321&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
