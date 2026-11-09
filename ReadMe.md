@@ -212,14 +212,7 @@ A cricket analytics and prediction project that uses historical IPL data and an 
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Atrayee321">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/atrayee-chatterjee-44a003307/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+
 
 ---
 
