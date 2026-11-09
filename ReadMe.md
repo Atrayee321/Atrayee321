@@ -221,6 +221,16 @@ A cricket analytics and prediction project that uses historical IPL data and an 
   </a>
 </p>
 
+---
+
+<p align="center">
+  <i>"Turning data into insights, and insights into impact."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
 <p align="center">
   <a href="https://github.com/Atrayee321">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
