@@ -123,7 +123,7 @@ An end-to-end AI-powered data analytics application designed to automate explora
 
 **Project Links**
 
-- 📂 [GitHub Repository (Private)](https://github.com/Atrayee321/autonomous-ai-data-analyst)
+- 📂 [GitHub Repository](https://github.com/Atrayee321/autonomous-ai-data-analyst)
 - 🌐 [Live Autonomous AI Data Analyst](https://autonomous-ai-data-analyst-kmbpc8frppj6wdhroqziof.streamlit.app/)
 
 ---
