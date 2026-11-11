@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Transforming+Data+into+Actionable+Insights;Exploring+Machine+Learning+%26+Deep+Learning;Building+AI-Powered+Applications;Exploring+Generative+AI+%26+Agentic+AI;Learning+Something+New+Every+Day" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atrayee321&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
 
 <p align="center">
   <a href="https://github.com/Atrayee321">
@@ -294,4 +291,6 @@ I'm always interested in connecting with people passionate about Data Analytics,
 <p align="center">
   ⭐ Thanks for visiting my GitHub profile!
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atrayee321&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
