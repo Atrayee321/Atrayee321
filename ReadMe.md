@@ -249,7 +249,7 @@ A cricket analytics project that uses an Artificial Neural Network to estimate f
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Joblib, Streamlit.
 
-🔗 [GitHub Repository](https://github.com/Atrayee321/IPL-score-predictor) | [Live Application](https://ipl-score-predictor-cu9oq6pdmugxksphc4y8uw.streamlit.app/)
+🔗 [GitHub Repository](https://github.com/Atrayee321/IPL-score-predictor) | [Live Application](https://ipl-score-predictor-tjegwzardd7e6ckxbmyn76.streamlit.app/)
 
 ---
 
