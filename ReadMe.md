@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atrayee321&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/atrayee-chatterjee-44a003307/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -197,12 +193,6 @@ A content-based recommendation application that suggests movies based on similar
 
 ---
 
-## 🎓 Certifications & Recognition
-
-- **NPTEL – Data Structure and Algorithm Design**, IIT Kanpur — 58%.
-
----
-
 ## 🎯 Areas of Interest
 
 - Exploratory Data Analysis and Statistical Analysis
@@ -252,14 +242,4 @@ I'm always open to connecting with fellow learners, developers, and professional
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
-</p>
-<p align="center">
-  <i>"Turning data into insights, and ideas into intelligent solutions."</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atrayee321&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
