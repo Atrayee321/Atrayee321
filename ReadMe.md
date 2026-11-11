@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Transforming+Data+into+Actionable+Insights;Exploring+Machine+Learning+%26+Deep+Learning;Building+AI-Powered+Applications;Exploring+Generative+AI+%26+Agentic+AI;Learning+Something+New+Every+Day" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
   <a href="https://github.com/Atrayee321">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -32,7 +31,7 @@ I'm a B.Tech student passionate about **Data Analytics, Machine Learning, Genera
 - ✨ Exploring Generative AI, Large Language Models, and Agentic AI.
 - 📈 Building interactive dashboards and AI-powered applications.
 - 🏏 Interested in Cricket Analytics and Football Analytics.
-- 🚀 Continuously developing my skills through hands-on projects.
+- 🚀 Continuously developing my technical skills through hands-on projects.
 
 **Career Interests:** Data Analytics | Machine Learning | Artificial Intelligence | Generative AI
 
@@ -40,72 +39,77 @@ I'm a B.Tech student passionate about **Data Analytics, Machine Learning, Genera
 
 ## 🛠️ Technical Skills & Tech Stack
 
-A collection of technologies, frameworks, libraries, and tools used across my projects.
-
-### Programming & Data Manipulation
+### 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### Data Analytics & Visualization
+### 📊 Data Analytics & Visualization
 
 <p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Machine Learning, Deep Learning & NLP
+### 🤖 Machine Learning, Deep Learning & NLP
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/NLTK-85A157?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TF--IDF-NLP-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ANN-Deep_Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### Generative AI & Agentic AI
+### 🧠 Generative AI & Agentic AI
 
 <p>
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google_GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentic_AI-0D9488?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge" />
 </p>
 
-### Web Development, APIs & Deployment
+### 🗄️ Databases & Storage
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### ⚙️ Frameworks, APIs & Deployment
 
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/python--telegram--bot-26A5E4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/python--dotenv-3776AB?style=for-the-badge" />
 </p>
 
-### Development Tools & Platforms
+### 🔧 Development Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit_Community_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ---
@@ -113,11 +117,13 @@ A collection of technologies, frameworks, libraries, and tools used across my pr
 ## 🚀 Featured Projects
 
 ### 1. 🤖 Autonomous AI Data Analyst
+
 **Agentic AI | Generative AI | Intelligent Data Analytics**
 
 An AI-powered autonomous data analytics application that transforms raw datasets into meaningful insights using Google Gemini, LangGraph, Python, and Streamlit.
 
 **Key Features**
+
 - Autonomous dataset profiling and exploratory data analysis.
 - AI-powered analytical planning using Google Gemini.
 - Agent workflow orchestration using LangGraph.
@@ -129,9 +135,9 @@ An AI-powered autonomous data analytics application that transforms raw datasets
 - AI-generated business intelligence reports.
 - CSV and Excel dataset support.
 
-**Tech Stack**
+**Technologies Used**
 
-`Python` `Pandas` `NumPy` `Google Gemini` `LangGraph` `Generative AI` `Agentic AI` `Plotly` `Streamlit` `Google Colab`
+`Python` `Pandas` `NumPy` `Google Gemini` `LangGraph` `Plotly` `Streamlit` `Google Colab`
 
 <p>
   <a href="https://github.com/Atrayee321/autonomous-ai-data-analyst">
@@ -145,11 +151,13 @@ An AI-powered autonomous data analytics application that transforms raw datasets
 ---
 
 ### 2. 📊 Superstore Sales Data Analysis Dashboard
-**Data Analytics | SQL | Power BI | Business Intelligence**
+
+**Data Analytics | Business Intelligence | Data Visualization**
 
 An end-to-end retail sales analytics project designed to analyze business performance, identify trends, and generate actionable insights using Python, SQL, Power BI, and Streamlit.
 
 **Key Features**
+
 - Data cleaning and preprocessing using Pandas.
 - Exploratory Data Analysis.
 - Interactive sales analytics dashboard.
@@ -159,15 +167,19 @@ An end-to-end retail sales analytics project designed to analyze business perfor
 - Regional sales comparisons.
 - Top-performing products and customers.
 - Loss-making product identification.
-- SQL queries for business analysis.
+- Business-oriented database queries.
 - Interactive Power BI dashboard.
 - Filtered dataset export.
 
-**Dataset:** 9,994 records | 27 columns
+**Dataset Information**
 
-**Tech Stack**
+- Records: 9,994
+- Columns: 27
+- Domain: Retail Sales Analytics
 
-`Python` `Pandas` `SQL` `MySQL` `Power BI` `Streamlit` `Plotly` `Excel` `GitHub`
+**Technologies Used**
+
+`Python` `Pandas` `MySQL` `Power BI` `Streamlit` `Plotly` `Excel`
 
 <p>
   <a href="https://github.com/Atrayee321/superstore-sales-analysis">
@@ -181,11 +193,13 @@ An end-to-end retail sales analytics project designed to analyze business perfor
 ---
 
 ### 3. 🎬 CineMatch — Movie Recommendation System
-**Machine Learning | NLP | Recommendation Systems**
+
+**Machine Learning | Natural Language Processing | Recommendation Systems**
 
 A content-based movie recommendation application that suggests similar movies using movie descriptions, genres, keywords, and natural language processing.
 
 **Key Features**
+
 - Movie search and selection.
 - Content-based movie recommendations.
 - NLP-based text processing.
@@ -194,11 +208,11 @@ A content-based movie recommendation application that suggests similar movies us
 - Adjustable recommendation results.
 - Movie posters using TMDB API.
 - Movie ratings, release years, and genres.
-- Interactive dark-themed Streamlit interface.
+- Interactive dark-themed interface.
 
-**Tech Stack**
+**Technologies Used**
 
-`Python` `Pandas` `Scikit-learn` `CountVectorizer` `Cosine Similarity` `NLP` `TMDB API` `Requests` `Streamlit`
+`Python` `Pandas` `Scikit-learn` `CountVectorizer` `Cosine Similarity` `NLTK` `TMDB API` `Streamlit`
 
 <p>
   <a href="https://github.com/Atrayee321/Movie-Recommendation-System">
@@ -241,17 +255,19 @@ A cricket analytics project that uses an Artificial Neural Network to estimate f
 
 ## 📚 Areas of Interest
 
-- Data Analytics and Exploratory Data Analysis.
-- Statistical Analysis and Data Interpretation.
+- Exploratory Data Analysis (EDA).
+- Data Cleaning and Feature Engineering.
+- Statistical Analysis.
 - Business Intelligence and Data Visualization.
 - Machine Learning Algorithms.
+- Regression and Classification.
 - Predictive Analytics.
-- Natural Language Processing.
 - Deep Learning and Artificial Neural Networks.
+- Natural Language Processing.
 - Generative AI and Large Language Models.
 - Agentic AI and Autonomous AI Systems.
 - Recommendation Systems.
-- Cricket and Football Analytics.
+- Sports Analytics — Cricket and Football.
 
 ---
 
