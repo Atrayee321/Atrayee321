@@ -239,7 +239,9 @@ I'm always open to connecting with fellow learners, developers, and professional
 <p align="center">
   <i>"Turning data into insights and ideas into intelligent solutions."</i>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atrayee321&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
