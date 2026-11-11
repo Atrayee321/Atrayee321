@@ -3,18 +3,22 @@
 ### Aspiring Data Analyst | Generative AI & Agentic AI Enthusiast | Machine Learning Student
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Transforming+Data+into+Actionable+Insights;Exploring+Machine+Learning+%26+Deep+Learning;Building+AI-Powered+Applications;Exploring+Generative+AI+%26+Agentic+AI;Learning+Something+New+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Turning+Data+into+Actionable+Insights;Building+Machine+Learning+Applications;Exploring+Generative+AI+%26+Agentic+AI;Creating+Projects+That+Solve+Real+Problems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Atrayee321">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Atrayee321&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/atrayee-chatterjee-44a003307/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:atrayeetintin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Atrayee321">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -22,22 +26,102 @@
 
 ## 👩‍💻 About Me
 
-I'm a B.Tech student passionate about **Data Analytics, Machine Learning, Generative AI, and Agentic AI**. I enjoy working with data, developing intelligent applications, and exploring how technology can solve real-world problems.
+I'm a final-year B.Tech student interested in using data and technology to solve real-world problems. I enjoy exploring datasets, building predictive models, developing interactive dashboards, and experimenting with AI-powered applications.
 
 - 📊 Interested in Data Analytics, Business Intelligence, and Data Visualization.
-- 🐍 Working with Python, SQL, Statistics, and data manipulation.
-- 🤖 Exploring Machine Learning algorithms and predictive modelling.
-- 🧠 Learning Deep Learning using TensorFlow, Keras, and Artificial Neural Networks.
-- ✨ Exploring Generative AI, Large Language Models, and Agentic AI.
-- 📈 Building interactive dashboards and AI-powered applications.
+- 🐍 Working with Python, SQL, Statistics, and data analysis tools.
+- 🤖 Exploring Machine Learning, Deep Learning, and predictive modelling.
+- 🧠 Exploring Generative AI, Large Language Models, and Agentic AI.
+- 📈 Building practical projects and deploying interactive applications.
 - 🏏 Interested in Cricket Analytics and Football Analytics.
-- 🚀 Continuously developing my technical skills through hands-on projects.
+- 🌱 Continuously learning through hands-on projects and experimentation.
 
-**Career Interests:** Data Analytics | Machine Learning | Artificial Intelligence | Generative AI
+**Current focus:** Data Analytics | Machine Learning | AI-powered Applications
 
 ---
 
-## 🛠️ Technical Skills & Tech Stack
+## 🚀 Featured Projects
+
+### 1. 🤖 Autonomous AI Data Analyst
+
+An AI-powered data analysis application that combines natural-language interaction, analytical workflows, and interactive visualizations to help users explore datasets and generate insights.
+
+**Highlights**
+- Dataset profiling and exploratory data analysis.
+- Natural-language interaction with uploaded datasets.
+- AI-assisted analytical planning using Google Gemini.
+- Workflow orchestration with LangGraph.
+- Data analysis using Pandas and NumPy.
+- Interactive visualizations using Plotly.
+- CSV and Excel file support.
+
+<p>
+  <a href="https://github.com/Atrayee321/autonomous-ai-data-analyst">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub repository" />
+  </a>
+  <a href="https://autonomous-ai-data-analyst-kmbpc8frppj6wdhroqziof.streamlit.app/">
+    <img src="https://img.shields.io/badge/TRY_LIVE_APP-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" alt="Live application" />
+  </a>
+</p>
+
+### 2. 📊 Superstore Sales Analysis Dashboard
+
+An end-to-end retail sales analytics project that explores business performance, identifies sales trends, and presents insights through interactive dashboards.
+
+**Highlights**
+- Data cleaning and preprocessing.
+- Exploratory Data Analysis.
+- Revenue, profit, orders, and customer KPIs.
+- Monthly sales and profit trends.
+- Product, category, and regional analysis.
+- Top-performing and loss-making product analysis.
+- SQL-based business queries.
+- Interactive Power BI and Streamlit dashboards.
+
+**Dataset:** 9,994 records | 27 columns
+
+<p>
+  <a href="https://github.com/Atrayee321/superstore-sales-analysis">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub repository" />
+  </a>
+  <a href="https://superstore-sales-analysis-am346gmdq9unrua9ocy2yl.streamlit.app/">
+    <img src="https://img.shields.io/badge/TRY_LIVE_DASHBOARD-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" alt="Live dashboard" />
+  </a>
+</p>
+
+### 3. 🎬 CineMatch — Movie Recommendation System
+
+A content-based recommendation application that suggests movies based on similarities in movie descriptions, genres, and other textual features.
+
+**Highlights**
+- Content-based movie recommendations.
+- Text processing and feature extraction.
+- CountVectorizer and cosine similarity.
+- Movie search and recommendation interface.
+- Movie information and posters through TMDB API.
+
+<p>
+  <a href="https://github.com/Atrayee321/Movie-Recommendation-System">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub repository" />
+  </a>
+  <a href="https://movie-recommendation-system-ycv3kiwgxp9tjjhxagbffk.streamlit.app/">
+    <img src="https://img.shields.io/badge/TRY_LIVE_APP-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" alt="Live application" />
+  </a>
+</p>
+
+---
+
+## 💡 Other Projects
+
+| Project | Description | Links |
+|---|---|---|
+| 🛡️ Email Spam Classifier | NLP and machine learning application for classifying spam and legitimate messages. | [Repository](https://github.com/Atrayee321/Email-Spam-Classifier) · [Live Demo](https://email-spam-classifier-humva2iyr278fyi839ud9c.streamlit.app/) |
+| 🤖 Personal AI Agent | Personal assistant application with Gemini-powered chat, Telegram integration, notes, and task management. | [Repository](https://github.com/Atrayee321/Personal-AI-Agent) · [Live Demo](https://personal-ai-agent-ddckhx3sqrmfdhpknnepkc.streamlit.app/) |
+| 🏏 IPL Score Predictor | Deep learning application for estimating first-innings IPL scores from match conditions. | [Repository](https://github.com/Atrayee321/IPL-score-predictor) · [Live Demo](https://ipl-score-predictor-cu9oq6pdmugxksphc4y8uw.streamlit.app/) |
+
+---
+
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
@@ -76,7 +160,6 @@ I'm a B.Tech student passionate about **Data Analytics, Machine Learning, Genera
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google_GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-0D9488?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge" />
 </p>
 
@@ -114,192 +197,62 @@ I'm a B.Tech student passionate about **Data Analytics, Machine Learning, Genera
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Certifications & Recognition
 
-### 1. 🤖 Autonomous AI Data Analyst
-
-**Agentic AI | Generative AI | Intelligent Data Analytics**
-
-An AI-powered autonomous data analytics application that transforms raw datasets into meaningful insights using Google Gemini, LangGraph, Python, and Streamlit.
-
-**Key Features**
-
-- Autonomous dataset profiling and exploratory data analysis.
-- AI-powered analytical planning using Google Gemini.
-- Agent workflow orchestration using LangGraph.
-- Automatic numerical, categorical, and date column detection.
-- Missing-value and duplicate detection.
-- Natural-language dataset interaction through Ask Your Data.
-- Multi-step analytical question answering.
-- Interactive Plotly visualizations.
-- AI-generated business intelligence reports.
-- CSV and Excel dataset support.
-
-**Technologies Used**
-
-`Python` `Pandas` `NumPy` `Google Gemini` `LangGraph` `Plotly` `Streamlit` `Google Colab`
-
-<p>
-  <a href="https://github.com/Atrayee321/autonomous-ai-data-analyst">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://autonomous-ai-data-analyst-kmbpc8frppj6wdhroqziof.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" />
-  </a>
-</p>
+- **NPTEL – Data Structure and Algorithm Design**, IIT Kanpur — 58%.
 
 ---
 
-### 2. 📊 Superstore Sales Data Analysis Dashboard
+## 🎯 Areas of Interest
 
-**Data Analytics | Business Intelligence | Data Visualization**
-
-An end-to-end retail sales analytics project designed to analyze business performance, identify trends, and generate actionable insights using Python, SQL, Power BI, and Streamlit.
-
-**Key Features**
-
-- Data cleaning and preprocessing using Pandas.
-- Exploratory Data Analysis.
-- Interactive sales analytics dashboard.
-- Revenue, profit, orders, customers, and AOV KPIs.
-- Monthly revenue and profit trend analysis.
-- Category and subcategory performance analysis.
-- Regional sales comparisons.
-- Top-performing products and customers.
-- Loss-making product identification.
-- Business-oriented database queries.
-- Interactive Power BI dashboard.
-- Filtered dataset export.
-
-**Dataset Information**
-
-- Records: 9,994
-- Columns: 27
-- Domain: Retail Sales Analytics
-
-**Technologies Used**
-
-`Python` `Pandas` `MySQL` `Power BI` `Streamlit` `Plotly` `Excel`
-
-<p>
-  <a href="https://github.com/Atrayee321/superstore-sales-analysis">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://superstore-sales-analysis-am346gmdq9unrua9ocy2yl.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live_Dashboard-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" />
-  </a>
-</p>
+- Exploratory Data Analysis and Statistical Analysis
+- Business Intelligence and Data Visualization
+- Predictive Analytics and Machine Learning
+- Deep Learning and Artificial Neural Networks
+- Natural Language Processing
+- Generative AI and Large Language Models
+- Agentic AI and AI-powered applications
+- Recommendation Systems
+- Cricket and Football Analytics
 
 ---
 
-### 3. 🎬 CineMatch — Movie Recommendation System
-
-**Machine Learning | Natural Language Processing | Recommendation Systems**
-
-A content-based movie recommendation application that suggests similar movies using movie descriptions, genres, keywords, and natural language processing.
-
-**Key Features**
-
-- Movie search and selection.
-- Content-based movie recommendations.
-- NLP-based text processing.
-- Bag-of-Words feature extraction.
-- Cosine similarity calculation.
-- Adjustable recommendation results.
-- Movie posters using TMDB API.
-- Movie ratings, release years, and genres.
-- Interactive dark-themed interface.
-
-**Technologies Used**
-
-`Python` `Pandas` `Scikit-learn` `CountVectorizer` `Cosine Similarity` `NLTK` `TMDB API` `Streamlit`
-
-<p>
-  <a href="https://github.com/Atrayee321/Movie-Recommendation-System">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://movie-recommendation-system-ycv3kiwgxp9tjjhxagbffk.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" />
-  </a>
-</p>
-
----
-
-## 💡 Additional Projects
-
-### 4. 🛡️ Email & SMS Spam Classifier
-
-An NLP-based machine learning application that classifies text messages as spam or legitimate using TF-IDF and Multinomial Naive Bayes.
-
-**Technologies:** Python, Pandas, Scikit-learn, NLTK, TF-IDF, Joblib, Streamlit, GitHub Actions.
-
-🔗 [GitHub Repository](https://github.com/Atrayee321/Email-Spam-Classifier) | [Live Application](https://email-spam-classifier-humva2iyr278fyi839ud9c.streamlit.app/)
-
-### 5. 🤖 Personal AI Agent
-
-A Python-based personal assistant with Telegram integration, Gemini-powered chat, conversation memory, notes, and task management.
-
-**Technologies:** Python, Google Gemini, Telegram Bot API, SQLite, Streamlit, Docker, Python-dotenv.
-
-🔗 [GitHub Repository](https://github.com/Atrayee321/Personal-AI-Agent) | [Live Application](https://personal-ai-agent-ddckhx3sqrmfdhpknnepkc.streamlit.app/)
-
-### 6. 🏏 IPL Score Predictor
-
-A cricket analytics project that uses an Artificial Neural Network to estimate first-innings IPL scores based on historical match data and current match conditions.
-
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Joblib, Streamlit.
-
-🔗 [GitHub Repository](https://github.com/Atrayee321/IPL-score-predictor) | [Live Application](https://ipl-score-predictor-tjegwzardd7e6ckxbmyn76.streamlit.app/)
-
----
-
-## 📚 Areas of Interest
-
-- Exploratory Data Analysis (EDA).
-- Data Cleaning and Feature Engineering.
-- Statistical Analysis.
-- Business Intelligence and Data Visualization.
-- Machine Learning Algorithms.
-- Regression and Classification.
-- Predictive Analytics.
-- Deep Learning and Artificial Neural Networks.
-- Natural Language Processing.
-- Generative AI and Large Language Models.
-- Agentic AI and Autonomous AI Systems.
-- Recommendation Systems.
-- Sports Analytics — Cricket and Football.
-
----
-
-## 📊 GitHub Activity
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atrayee321&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atrayee321&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atrayee321&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atrayee321&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atrayee321&theme=tokyonight&hide_border=true" width="75%" />
+  <img src="https://streak-stats.demolab.com?user=Atrayee321&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-I'm always interested in connecting with people passionate about Data Analytics, Machine Learning, Artificial Intelligence, and emerging technologies.
+I'm always open to connecting with fellow learners, developers, and professionals interested in Data Analytics, Machine Learning, and Artificial Intelligence.
 
 <p align="center">
   <a href="https://github.com/Atrayee321">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Atrayee321-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/atrayee-chatterjee-44a003307/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Atrayee_Chatterjee-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:atrayeetintin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
+<p align="center">
+  <i>"Turning data into insights and ideas into intelligent solutions."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
 <p align="center">
   <i>"Turning data into insights, and ideas into intelligent solutions."</i>
 </p>
