@@ -210,11 +210,6 @@ A content-based recommendation application that suggests movies based on similar
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atrayee321&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atrayee321&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Atrayee321&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
